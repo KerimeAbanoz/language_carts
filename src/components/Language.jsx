@@ -1,8 +1,5 @@
+const Language = ({ name, options, img }) => {
+  return <div>Language</div>;
+};
 
-const Language = () => {
-  return (
-    <div>Language</div>
-  )
-}
-
-export default Language
+export default Language;
